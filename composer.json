@@ -1,0 +1,8 @@
+{
+    "name": "wsign/reserved",
+    "description": "Reserves the wsign vendor name on Packagist for the official wsign SDKs. Not an installable library.",
+    "type": "metapackage",
+    "license": "MIT",
+    "homepage": "https://wsign.io/developers/sdks",
+    "authors": [{ "name": "wsign", "email": "support@wsign.io" }]
+}
